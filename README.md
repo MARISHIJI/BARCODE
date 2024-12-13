@@ -1,5 +1,5 @@
 # BARCODE Reposiory
 
-タモリ
+タモ
 
 
